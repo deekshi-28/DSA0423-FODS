@@ -1,0 +1,7 @@
+property_id,location,bedrooms,area_sqft,listing_price
+1,Chennai,3,1200,6000000
+2,Chennai,5,2000,12000000
+3,Bangalore,4,1500,9000000
+4,Bangalore,6,2500,15000000
+5,Hyderabad,2,1000,5000000
+6,Hyderabad,5,2200,11000000

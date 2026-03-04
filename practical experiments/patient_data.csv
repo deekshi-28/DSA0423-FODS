@@ -1,0 +1,9 @@
+age,gender,blood_pressure,cholesterol,outcome
+45,M,130,220,Good
+50,F,140,240,Bad
+38,M,120,210,Good
+60,F,150,260,Bad
+48,M,135,230,Good
+55,F,145,250,Bad
+42,M,128,215,Good
+65,F,155,270,Bad

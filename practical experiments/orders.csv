@@ -1,0 +1,7 @@
+customer_id,order_date,product_name,order_quantity
+101,2025-01-01,Laptop,2
+102,2025-01-03,Mobile,1
+101,2025-01-05,Tablet,3
+103,2025-01-07,Laptop,1
+102,2025-01-10,Mobile,2
+101,2025-01-12,Mobile,1
