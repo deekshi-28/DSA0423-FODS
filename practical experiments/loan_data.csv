@@ -1,0 +1,9 @@
+income,credit_score,debt_income_ratio,employment_duration,risk
+40000,650,30,5,Low
+30000,600,40,3,High
+50000,700,25,7,Low
+35000,620,38,4,High
+60000,720,20,10,Low
+32000,580,45,2,High
+45000,680,28,6,Low
+28000,550,50,1,High

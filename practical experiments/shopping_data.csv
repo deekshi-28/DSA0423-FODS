@@ -1,0 +1,9 @@
+age,income,browsing_duration,device_type,purchase
+25,30000,5,Mobile,No
+35,50000,15,Laptop,Yes
+28,35000,7,Tablet,No
+40,60000,20,Laptop,Yes
+30,45000,10,Mobile,Yes
+45,70000,25,Laptop,Yes
+22,25000,4,Mobile,No
+38,55000,18,Tablet,Yes
